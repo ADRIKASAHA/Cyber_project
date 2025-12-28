@@ -1,0 +1,7 @@
+
+& C:/Users/User/AppData/Local/Programs/Python/Python313/python.exe d:/job/Syntecxhub/cyber_project/EncryptedChatApp/server/server.py
+Hello secure world
+Hello secure world
+Hello 
+adrika
+saha
