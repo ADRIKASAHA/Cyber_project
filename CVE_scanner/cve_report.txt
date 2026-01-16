@@ -1,0 +1,50 @@
+| Host        |   Port | Product   | Version    | CVE            | Severity   | Summary                                                                                                                  |
+|-------------|--------|-----------|------------|----------------|------------|--------------------------------------------------------------------------------------------------------------------------|
+| example.com |     80 | Server    | cloudflare | CVE-2021-43800 | High       | Wiki.js is a wiki app built on Node.js. Prior to version 2.5.254, directory traversal outside of Wiki.js context is poss |
+| example.com |     80 | Server    | cloudflare | CVE-2023-2754  | High       | The Cloudflare WARP client for Windows assigns loopback IPv4 addresses for the DNS Servers, since WARP acts as local DNS |
+| example.com |     80 | Server    | cloudflare | CVE-2024-24756 | High       | Crafatar serves Minecraft avatars based on the skin for use in external applications. Files outside of the `lib/public/` |
+| example.com |     80 | Server    | cloudflare | CVE-2024-1765  | Medium     | Cloudflare Quiche (through version 0.19.1/0.20.0) was affected by an unlimited resource allocation vulnerability causing |
+| example.com |     80 | Server    | cloudflare | CVE-2024-38537 | Low        | Fides is an open-source privacy engineering platform. `fides.js`, a client-side script used to interact with the consent |
+| example.com |     80 | Server    | cloudflare | CVE-2024-49770 | Unknown    | `oak` is a middleware framework for Deno's native HTTP server, Deno Deploy, Node.js 16.5 and later, Cloudflare Workers a |
+| example.com |     80 | Server    | cloudflare | CVE-2025-6087  | Critical   | A Server-Side Request Forgery (SSRF) vulnerability was identified in the @opennextjs/cloudflare package. The vulnerabili |
+| example.com |     80 | Server    | cloudflare | CVE-2025-55152 | Medium     | oak is a middleware framework for Deno's native HTTP server, Deno Deploy, Node.js 16.5 and later, Cloudflare Workers and |
+| example.com |     80 | Server    | cloudflare | CVE-2025-58048 | Critical   | Paymenter is a free and open-source webshop solution for hostings. Prior to version 1.2.11, the ticket attachments funct |
+| example.com |     80 | Server    | cloudflare | CVE-2025-59427 | Unknown    | The Cloudflare Vite plugin enables a full-featured integration between Vite and the Workers runtime. When utilising the  |
+| example.com |     80 | Server    | cloudflare | CVE-2025-61584 | Unknown    | serverless-dns is a RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io. Versions th |
+| example.com |     80 | Server    | cloudflare | CVE-2025-13353 | Medium     | In gokey versions <0.2.0,
+ a flaw in the seed decryption logic resulted in passwords incorrectly 
+being derived solely f                                                                                                                          |
+| example.com |    443 | Server    | cloudflare | CVE-2021-43800 | High       | Wiki.js is a wiki app built on Node.js. Prior to version 2.5.254, directory traversal outside of Wiki.js context is poss |
+| example.com |    443 | Server    | cloudflare | CVE-2023-2754  | High       | The Cloudflare WARP client for Windows assigns loopback IPv4 addresses for the DNS Servers, since WARP acts as local DNS |
+| example.com |    443 | Server    | cloudflare | CVE-2024-24756 | High       | Crafatar serves Minecraft avatars based on the skin for use in external applications. Files outside of the `lib/public/` |
+| example.com |    443 | Server    | cloudflare | CVE-2024-1765  | Medium     | Cloudflare Quiche (through version 0.19.1/0.20.0) was affected by an unlimited resource allocation vulnerability causing |
+| example.com |    443 | Server    | cloudflare | CVE-2024-38537 | Low        | Fides is an open-source privacy engineering platform. `fides.js`, a client-side script used to interact with the consent |
+| example.com |    443 | Server    | cloudflare | CVE-2024-49770 | Unknown    | `oak` is a middleware framework for Deno's native HTTP server, Deno Deploy, Node.js 16.5 and later, Cloudflare Workers a |
+| example.com |    443 | Server    | cloudflare | CVE-2025-6087  | Critical   | A Server-Side Request Forgery (SSRF) vulnerability was identified in the @opennextjs/cloudflare package. The vulnerabili |
+| example.com |    443 | Server    | cloudflare | CVE-2025-55152 | Medium     | oak is a middleware framework for Deno's native HTTP server, Deno Deploy, Node.js 16.5 and later, Cloudflare Workers and |
+| example.com |    443 | Server    | cloudflare | CVE-2025-58048 | Critical   | Paymenter is a free and open-source webshop solution for hostings. Prior to version 1.2.11, the ticket attachments funct |
+| example.com |    443 | Server    | cloudflare | CVE-2025-59427 | Unknown    | The Cloudflare Vite plugin enables a full-featured integration between Vite and the Workers runtime. When utilising the  |
+| example.com |    443 | Server    | cloudflare | CVE-2025-61584 | Unknown    | serverless-dns is a RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io. Versions th |
+| example.com |    443 | Server    | cloudflare | CVE-2025-13353 | Medium     | In gokey versions <0.2.0,
+ a flaw in the seed decryption logic resulted in passwords incorrectly 
+being derived solely f                                                                                                                          |
+| 127.0.0.1   |     22 | unknown   |            | CVE-1999-1573  | Critical   | Multiple unknown vulnerabilities in the "r-cmnds" (1) remshd, (2) rexecd, (3) rlogind, (4) rlogin, (5) remsh, (6) rcp, ( |
+| 127.0.0.1   |     22 | unknown   |            | CVE-1999-1584  | Critical   | Unknown vulnerability in (1) loadmodule, and (2) modload if modload is installed with setuid/setgid privileges, in SunOS |
+| 127.0.0.1   |     22 | unknown   |            | CVE-1999-1589  | High       | Unspecified vulnerability in crontab in IBM AIX 3.2 allows local users to gain root privileges via unknown attack vector |
+| 127.0.0.1   |     22 | unknown   |            | CVE-2000-0247  | High       | Unknown vulnerability in Generic-NQS (GNQS) allows local users to gain root privileges.                                  |
+| 127.0.0.1   |     22 | unknown   |            | CVE-2000-1003  | Low        | NETBIOS client in Windows 95 and Windows 98 allows a remote attacker to cause a denial of service by changing a file sha |
+| 127.0.0.1   |     22 | unknown   |            | CVE-2000-0990  | High       | cmd5checkpw 0.21 and earlier allows remote attackers to cause a denial of service via an "SMTP AUTH" command with an unk |
+| 127.0.0.1   |     22 | unknown   |            | CVE-2000-1232  | Medium     | upgrade.php3 in Phorum 3.0.7 could allow remote attackers to modify certain Phorum database tables via an unknown method |
+| 127.0.0.1   |     22 | unknown   |            | CVE-2000-1240  | Medium     | Unspecified vulnerability in siteman.php3 in AnyPortal(php) before 22 APR 00 allows remote attackers to obtain sensitive |
+| 127.0.0.1   |     22 | unknown   |            | CVE-2000-1241  | Critical   | Unspecified vulnerability in Haakon Nilsen simple, integrated publishing system (SIPS) before 0.2.4 has an unknown impac |
+| 127.0.0.1   |     22 | unknown   |            | CVE-2001-1357  | High       | Multiple vulnerabilities in phpMyChat before 0.14.5 exist in (1) input.php3, (2) handle_inputH.php3, or (3) index.lib.ph |
+| 127.0.0.1   |     22 | unknown   |            | CVE-2001-1445  | High       | Unknown vulnerability in the SMTP server in Lotus Domino 5.0 through 5.7 allows remote attackers to bypass mail relaying |
+| 127.0.0.1   |     22 | unknown   |            | CVE-2001-1390  | Medium     | Unknown vulnerability in binfmt_misc in the Linux kernel before 2.2.19, related to user pages.                           |
+| 127.0.0.1   |     22 | unknown   |            | CVE-2001-1393  | Low        | Unknown vulnerability in classifier code for Linux kernel before 2.2.19 could result in denial of service (hang).        |
+| 127.0.0.1   |     22 | unknown   |            | CVE-2001-1395  | Low        | Unknown vulnerability in sockfilter for Linux kernel before 2.2.19 related to "boundary cases," with unknown impact.     |
+| 127.0.0.1   |     22 | unknown   |            | CVE-2001-1396  | Low        | Unknown vulnerabilities in strnlen_user for Linux kernel before 2.2.19, with unknown impact.                             |
+| 127.0.0.1   |     22 | unknown   |            | CVE-2001-1400  | Low        | Unknown vulnerabilities in the UDP port allocation for Linux kernel before 2.2.19 could allow local users to cause a den |
+| 127.0.0.1   |     22 | unknown   |            | CVE-2001-0485  | High       | Unknown vulnerability in netprint in IRIX 6.2, and possibly other versions, allows local users with lp privileges attack |
+| 127.0.0.1   |     22 | unknown   |            | CVE-2001-1427  | High       | Unknown vulnerability in ColdFusion Server 2.0 through 4.5.1 SP2 allows remote attackers to overwrite templates with zer |
+| 127.0.0.1   |     22 | unknown   |            | CVE-2001-1061  | Critical   | Vulnerability in lsmcode in unknown versions of AIX, possibly related to a usage error.                                  |
+| 127.0.0.1   |     22 | unknown   |            | CVE-2001-0831  | Medium     | Unknown vulnerability in Oracle Label Security in Oracle 8.1.7 and 9.0.1, when audit functionality, SET_LABEL, or SQL*Pr |
